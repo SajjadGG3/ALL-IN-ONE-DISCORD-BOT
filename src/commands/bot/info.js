@@ -131,7 +131,7 @@ module.exports = async (client, interaction, args) => {
                 },
                 {
                     name: "🔗┆Links",
-                    value: `Add me: [[HERE]](${client.config.discord.botInvite}) \nSupport server: [[HERE]](${client.config.discord.serverInvite})`,
+                    value: `Add me:                                                                                                                
                     inline: false,
                 }],
                 type: 'editreply'
